@@ -16,6 +16,6 @@ Coming soon...
 
 ## Authors
 
-* **Vineet Dhaimodker** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+**Vineet Dhaimodker** 
 
 ## License
