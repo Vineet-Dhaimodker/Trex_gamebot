@@ -202,6 +202,6 @@ Project Link: [https://github.com/Vineet-Dhaimodker/Trex_gamebot](https://github
 [license-shield]: https://img.shields.io/github/license/Vineet-Dhaimodker/Trex_gamebot.svg?style=for-the-badge
 [license-url]: https://github.com/Vineet-Dhaimodker/Trex_gamebot/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: www.linkedin.com/in/vineet-dhaimodker
+[linkedin-url]: https://www.linkedin.com/in/vineet-dhaimodker/
 [product-screenshot]: https://img.thecodepost.org/2015/01/trex.png
 
