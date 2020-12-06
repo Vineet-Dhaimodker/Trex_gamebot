@@ -28,7 +28,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://e7.pngegg.com/pngimages/608/941/png-clipart-tyrannosaurus-dino-t-rex-google-chrome-jumping-dinosaur-dinosaur-game-angle-thumbnail.png" alt="Logo" width="80" height="80">
+    <img src="https://lh3.googleusercontent.com/kqthe4lLP_DP1r6GQuGs76ud47NWSKcS_q8lY5pOWwiHlJNm-AiCDMh26EBrf-lX9Aw" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
