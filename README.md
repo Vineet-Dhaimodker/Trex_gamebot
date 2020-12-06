@@ -31,19 +31,18 @@
     <img src="https://lh3.googleusercontent.com/kqthe4lLP_DP1r6GQuGs76ud47NWSKcS_q8lY5pOWwiHlJNm-AiCDMh26EBrf-lX9Aw" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Trex_gamebot</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Vineet-Dhaimodker/Trex_gamebot"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/Vineet-Dhaimodker/Trex_gamebot">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/Vineet-Dhaimodker/Trex_gamebot/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/Vineet-Dhaimodker/Trex_gamebot/issues">Request Feature</a>
   </p>
 </p>
 
